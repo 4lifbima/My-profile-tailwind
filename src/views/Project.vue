@@ -112,7 +112,7 @@ export default {
     data() {
         return {
             projects: projects,
-            tabs: ['ALL', 'UI/UX', 'FRONTEND', 'FULL STACK'],
+            tabs: ['ALL', 'Backend', 'FRONTEND', 'FULL STACK'],
             activeTab: 'ALL',
         };
     },
